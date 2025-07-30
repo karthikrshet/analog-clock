@@ -2,9 +2,7 @@
 
 A sleek, **glassmorphism‑inspired analog clock** built using **HTML, CSS, and JavaScript** with **smooth hand animations** and a **dark/light theme toggle**.
 
-![Analog Clock Screenshot](<img width="1259" height="814" alt="Screenshot 2025-07-30 170322" src="https://github.com/user-attachments/assets/de833255-4f3d-4a05-bf6d-0372fea47ff5" />
-)
-*(Replace with your actual screenshot)*
+<img width="1259" height="814" alt="Screenshot 2025-07-30 170322" src="https://github.com/user-attachments/assets/de833255-4f3d-4a05-bf6d-0372fea47ff5" />
 
 ---
 
