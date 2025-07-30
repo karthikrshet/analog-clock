@@ -12,7 +12,7 @@ A sleek, **glassmorphism‑inspired analog clock** built using **HTML, CSS, and 
 * 🎨 **Modern Glassmorphism Design** – Frosted‑glass UI with glowing effects
 * 🌙 **Dark/Light Mode Toggle** – Switch themes in one click
 * ✨ **Smooth Animations** – Transitioned hand rotations for realism
-* 👤 **Footer Credit** – Developed by **Karthik Shet**
+* 👤 **Credit** – Developed by **Karthik Shet**
 
 ---
 
